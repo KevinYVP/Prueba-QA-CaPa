@@ -1,0 +1,21 @@
+{
+  "name": "pruebas-qa",
+  "version": "1.0.0",
+  "description": "E2e PRUEBAS QA CP",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "e2e",
+    "automatisacion",
+    "cypress"
+  ],
+  "author": "Kevin",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/cypress-cucumber-preprocessor": "^4.0.5",
+    "cypress": "^15.0.0",
+    "typescript": "^5.9.2"
+  }
+}
